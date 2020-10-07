@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/sokoke/Documents/capgemini/bootcamp/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+716397354.index
+1941304050.index
+1378448638.index
+1932947380.index
+1291769235.index
+3811644474.index
