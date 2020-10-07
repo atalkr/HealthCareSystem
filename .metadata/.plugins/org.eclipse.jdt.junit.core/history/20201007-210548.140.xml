@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HcmsAppointmentMsApplicationTests" project="hcms-appointment-management-system" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.capg.hcms.appointmentms.HcmsAppointmentMsApplicationTests" time="1.453" displayname="HcmsAppointmentMsApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.capg.hcms.appointmentms.HcmsAppointmentMsApplicationTests]">
+    <testcase name="testAppointmentNotFoundException" classname="com.capg.hcms.appointmentms.HcmsAppointmentMsApplicationTests" time="1.242" displayname="testAppointmentNotFoundException()" uniqueid="[engine:junit-jupiter]/[class:com.capg.hcms.appointmentms.HcmsAppointmentMsApplicationTests]/[method:testAppointmentNotFoundException()]"/>
+    <testcase name="testSlotNotAvailableException" classname="com.capg.hcms.appointmentms.HcmsAppointmentMsApplicationTests" time="0.21" displayname="testSlotNotAvailableException()" uniqueid="[engine:junit-jupiter]/[class:com.capg.hcms.appointmentms.HcmsAppointmentMsApplicationTests]/[method:testSlotNotAvailableException()]"/>
+  </testsuite>
+</testrun>
